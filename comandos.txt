@@ -1,1 +1,2 @@
 Git log é um comando que lista os commits realizados.
+Git Status é um ótimo comando.
